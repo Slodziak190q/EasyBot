@@ -15,3 +15,6 @@ It have a lot of commands from popular bots
 soon.... 
 
 # THIS BOT IS IN DEVELOPTMENT SOME FUNCTIONS MAY DONT WORK! 
+
+This bot will be totally free to use
+You will can donate od you want 
