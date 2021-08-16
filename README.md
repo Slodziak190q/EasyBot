@@ -13,3 +13,5 @@ It have a lot of commands from popular bots
 
 # DONATE
 soon.... 
+
+# THIS BOT IS IN DEVELOPTMENT SOME FUNCTIONS MAY DONT WORK! 
