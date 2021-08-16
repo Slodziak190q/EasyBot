@@ -17,9 +17,6 @@ soon....
 # UPTADES
 For now there is no UPTADES
 
-# MY GITHUB
-Slodziak190q
-
 # THIS BOT IS IN DEVELOPTMENT SOME FUNCTIONS MAY DONT WORK! 
 
 This bot will be totally free to use
