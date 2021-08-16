@@ -2,7 +2,7 @@
 All commands from all bots in one bot
 
 # Invite Him Here!
-https://discord.com/api/oauth2/authorize?client_id=876395450771578890&permissions=8&scope=bot
+https://tiny.pl/9g7pp
 
 # Why You Should Add This Bot
 If you have discord server or you are in some servers you know that there is a lot of bots added to servers 
