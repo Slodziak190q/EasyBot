@@ -14,7 +14,11 @@ Its fully configurable and you can add your command too! Only thing to do is add
 # DONATE
 soon.... 
 
+# UPTADES
+For now there is no UPTADES
+
 # THIS BOT IS IN DEVELOPTMENT SOME FUNCTIONS MAY DONT WORK! 
 
 This bot will be totally free to use
 You will can donate od you want 
+
