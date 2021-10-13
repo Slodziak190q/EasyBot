@@ -1,5 +1,4 @@
-# All-in-one-discord-bot
-All commands from all bots in one bot
+
 
 # Invite Him Here!
 https://tiny.pl/9g7pp
